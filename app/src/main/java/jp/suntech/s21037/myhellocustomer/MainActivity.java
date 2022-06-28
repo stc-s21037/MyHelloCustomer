@@ -48,13 +48,13 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.btClearname:
                     inputname.setText("");
                     inputStr="";
-                    output.setText("名前と住所を入力してください");
+                    output.setText(inputStrjyusho+"にお住まいの"+inputStr+"さん、こんにちは！");
                     break;
 
                 case R.id.btClearjyusho:
                     inputjyusho.setText("");
                     inputStrjyusho="";
-                    output.setText("名前と住所を入力してください");
+                    output.setText(inputStrjyusho+"にお住まいの"+inputStr+"さん、こんにちは！");
                     break;
 
             }
