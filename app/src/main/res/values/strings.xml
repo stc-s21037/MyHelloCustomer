@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyHelloCustomer</string>
+    <string name="tv_name">お名前</string>
+    <string name="tv_jyusho">住まい</string>
+    <string name="bt_click">表示</string>
+    <string name="bt_clear_jyusho">住まいクリア</string>
+    <string name="bt_clear_name">お名前クリア</string>
+</resources>
